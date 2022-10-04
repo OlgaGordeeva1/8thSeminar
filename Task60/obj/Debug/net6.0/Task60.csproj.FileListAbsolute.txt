@@ -1,0 +1,15 @@
+C:\C#\8Seminar\Task60\bin\Debug\net6.0\Task60.exe
+C:\C#\8Seminar\Task60\bin\Debug\net6.0\Task60.deps.json
+C:\C#\8Seminar\Task60\bin\Debug\net6.0\Task60.runtimeconfig.json
+C:\C#\8Seminar\Task60\bin\Debug\net6.0\Task60.dll
+C:\C#\8Seminar\Task60\bin\Debug\net6.0\Task60.pdb
+C:\C#\8Seminar\Task60\obj\Debug\net6.0\Task60.csproj.AssemblyReference.cache
+C:\C#\8Seminar\Task60\obj\Debug\net6.0\Task60.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\8Seminar\Task60\obj\Debug\net6.0\Task60.AssemblyInfoInputs.cache
+C:\C#\8Seminar\Task60\obj\Debug\net6.0\Task60.AssemblyInfo.cs
+C:\C#\8Seminar\Task60\obj\Debug\net6.0\Task60.csproj.CoreCompileInputs.cache
+C:\C#\8Seminar\Task60\obj\Debug\net6.0\Task60.dll
+C:\C#\8Seminar\Task60\obj\Debug\net6.0\refint\Task60.dll
+C:\C#\8Seminar\Task60\obj\Debug\net6.0\Task60.pdb
+C:\C#\8Seminar\Task60\obj\Debug\net6.0\Task60.genruntimeconfig.cache
+C:\C#\8Seminar\Task60\obj\Debug\net6.0\ref\Task60.dll
